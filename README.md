@@ -13,7 +13,7 @@ Download the latest release from the [GitHub Releases Page](https://github.com/M
 
 Execute the following command to start the application
 
-```java
+```bash
 java -jar iMediaSorter.jar
 ```
 
